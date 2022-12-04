@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-item img{
+    height: 90vh;
+    width: 100%;
+}
+.card img{
+    height: 50vh;
+}
+.adam{
+    width: 60%;
+}
+
+
+
